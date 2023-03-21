@@ -2,7 +2,7 @@
 
 ## Description
 
-Simple implementation of [Map Reduce framework](https://static.googleusercontent.com/media/research.google.com/en/us/archive/mapreduce-osdi04.pdf) in python. Projected coded as a part of application process to Vinted.
+Simple implementation of [Map Reduce framework](https://static.googleusercontent.com/media/research.google.com/en/us/archive/mapreduce-osdi04.pdf) in python. Project coded as a part of application process to Vinted.
 
 ## Usage
 
